@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Memphis, Tennessee with a population of over 633k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Memphis, Tennessee, US",
+  "export_job_id": "d1f8cc14-f42c-46b2-8f47-a0bdd4cf76d2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 560255,
+  "location_name": "Memphis",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-memphis-tennessee-us-sample-560255",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/560255/beamstation_560255_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 1.5,
+  "sample_records": 25,
+  "sample_sha256": "72630b0765ff071601145e52c950d08e79ed55bf000109a57e2117235983a8d4",
+  "sample_size_bytes": 115707,
+  "total_records": 1670,
+  "updated_at": "2026-03-31T16:30:21.517678+00:00"
+}
