@@ -1,6 +1,6 @@
 # All Restaurants in Memphis, Tennessee, US
 
-> Free BeamStation sample export with 173 rows and masked direct-contact fields.
+> Free BeamStation sample export with 219 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `560255` |
 | Location | Memphis |
 | Category | Restaurants |
-| Full dataset size | 1,735 records |
-| Free sample size | 173 records (9.97%) |
-| Last export | 2026-04-21T18:57:07.692426+00:00 |
+| Full dataset size | 2,196 records |
+| Free sample size | 219 records (9.97%) |
+| Last export | 2026-04-28T20:31:51.015275+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-memphis-tennessee-us-sample-560255/releases/download/sample-latest/beamstation_560255_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
