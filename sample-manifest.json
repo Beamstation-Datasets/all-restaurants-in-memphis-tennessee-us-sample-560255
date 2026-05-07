@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8b6d49ff-e651-42b0-bf39-84c945aba30d",
+  "export_job_id": "5940b1d2-0dc7-402b-931e-59f7fb7293ae",
   "id_short": 560255,
-  "published_at": "2026-04-29T07:07:51Z",
+  "published_at": "2026-05-07T19:07:16Z",
   "repo_name": "all-restaurants-in-memphis-tennessee-us-sample-560255",
   "sample_asset_name": "beamstation_560255_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/560255/beamstation_560255_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 219,
-  "sample_sha256": "d9409ebd6b72b7795aff03f4b35f746038721fe4cc5026b1c0d269fa1df12c83",
-  "sample_size_bytes": 689620,
-  "total_records": 2196
+  "sample_records": 234,
+  "sample_sha256": "71de2943b486dd556c8de86ce898bb5bf1bb6514c9afc2ae8e491cc264ae7439",
+  "sample_size_bytes": 869570,
+  "total_records": 2346
 }
